@@ -1,0 +1,2 @@
+# A-MobileNetV2-and-SSD-based-Framework-for-Real-Time-Surveillance-using-Live-Camera-Feeds
+Developed an AI-powered real-time surveillance system using MobileNetV2-SSD for live object detection. Implemented preprocessing, motion filtering, NMS, and transfer learning to optimize inference. Achieved 92.7% accuracy, 0.905 mAP@0.5, 0.962 F1-score, and 18 FPS for efficient real-time security monitoring.
